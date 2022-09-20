@@ -18,7 +18,10 @@ button {
   text-align: center;
 }
 
-button:hover{
-  cursor: pointer;
-  transform: scale(1.25);
+button {
+  transition: transform .3s ease-in-out;
+}
+
+button:hover {
+  transform: scale(1.2)
 }
