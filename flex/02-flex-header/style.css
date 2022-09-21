@@ -8,7 +8,7 @@
   font-weight: 900;
   color: tomato;
   background: white;
-  padding: 4px 32px;
+  padding: 16px 50px;
 }
 
 ul {
@@ -22,4 +22,17 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
+}
+
+.header{
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between
+}
+
+ul{
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
 }
