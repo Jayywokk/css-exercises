@@ -1,0 +1,21 @@
+.one, .three, .five{
+    background-color:rgb(223, 130, 145);
+    font-family: verdana, 'Dejavu Sans', sans-serif
+}
+
+
+#two {
+    color: rgb(17, 17, 195);
+    font-size: 36px;
+}
+
+
+.three{
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(81, 151, 81);
+    font-weight: bold;
+    font-size: 24px;
+}
