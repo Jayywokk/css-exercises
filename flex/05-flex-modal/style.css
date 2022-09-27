@@ -70,6 +70,7 @@ button.cancel {
   display: flex;
   gap: 1rem
 }
+
 .icon{
   flex-shrink: 0;
 }
